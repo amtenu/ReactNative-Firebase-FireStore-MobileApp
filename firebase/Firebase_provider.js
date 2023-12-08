@@ -11,7 +11,7 @@ const firebaseConfig = {
   authDomain: "my-app1-87894.firebaseapp.com",
   projectId: process.env.REACT_NATIVE_FIREBASE_projectId,
   storageBucket: "my-app1-87894.appspot.com",
-  messagingSenderId: "398788667552",
+  messagingSenderId: "************",
   appId: process.env.REACT_NATIVE_FIREBASE_appId
 };
 
